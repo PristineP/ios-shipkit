@@ -18,7 +18,7 @@ Building an iPhone app with a coding agent fails in predictable ways: sessions t
 ## Install
 
 ```bash
-git clone https://github.com/{GITHUB_USER}/ios-shipkit
+git clone https://github.com/PristineP/ios-shipkit
 cp -r ios-shipkit/skills/* ~/.claude/skills/
 ```
 
@@ -33,7 +33,7 @@ Everything else in the system exists to enforce these two.
 
 ## The full pipeline (paid)
 
-The complete pack — **[$29, $19 launch week, on Ko-fi]({KOFI_URL})** — adds the back half of the pipeline: `swiftui-scaffold` (architecture before features), `code-audit` (targets the failure patterns AI-generated Swift actually has), `mockup-to-swiftui`, `appstore-listing`, `screenshot-story`, `release-runbook`, plus a playbook covering session doctrine, verification doctrine, and App Review survival. No subscription, no license keys — markdown files you own.
+The complete pack — **$29, $19 launch week** (shop link lands here today) — adds the back half of the pipeline: `swiftui-scaffold` (architecture before features), `code-audit` (targets the failure patterns AI-generated Swift actually has), `mockup-to-swiftui`, `appstore-listing`, `screenshot-story`, `release-runbook`, plus a playbook covering session doctrine, verification doctrine, and App Review survival. No subscription, no license keys — markdown files you own.
 
 ## License
 
