@@ -33,7 +33,7 @@ Everything else in the system exists to enforce these two.
 
 ## The full pipeline (paid)
 
-The complete pack — **$29, $19 launch week** (shop link lands here today) — adds the back half of the pipeline: `swiftui-scaffold` (architecture before features), `code-audit` (targets the failure patterns AI-generated Swift actually has), `mockup-to-swiftui`, `appstore-listing`, `screenshot-story`, `release-runbook`, plus a playbook covering session doctrine, verification doctrine, and App Review survival. No subscription, no license keys — markdown files you own.
+The complete pack — **[$29, $19 launch week, on Ko-fi](https://ko-fi.com/s/94a7f6fd1c)** — adds the back half of the pipeline: `swiftui-scaffold` (architecture before features), `code-audit` (targets the failure patterns AI-generated Swift actually has), `mockup-to-swiftui`, `appstore-listing`, `screenshot-story`, `release-runbook`, plus a playbook covering session doctrine, verification doctrine, and App Review survival. No subscription, no license keys — markdown files you own.
 
 ## License
 
